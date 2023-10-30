@@ -7,7 +7,7 @@ Este repositório oferece solução para organizar e separar arquivos em pastas 
 
 OBS: Caso de erro de arquivo Insira o caminho do arquivo
 
-# Bibliotecas Usados:
+# Bibliotecas Usadas:
 Pathlib
 
 Shutil
