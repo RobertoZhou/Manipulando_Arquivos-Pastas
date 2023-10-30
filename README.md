@@ -1,4 +1,4 @@
-# Manipulando_Arquivos-Pastas
+# Manipulando Arquivos/Pastas
  Manipulação de Arquivos e Pastas [Python]
  
 Automatize a tarefa de separar arquivos em pastas com facilidade usando Python.
