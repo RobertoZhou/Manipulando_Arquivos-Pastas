@@ -8,10 +8,10 @@ Este repositório oferece solução para organizar e separar arquivos em pastas 
 OBS: Caso de erro de arquivo Insira o caminho do arquivo
 
 # Bibliotecas Usadas:
-Pathlib
+- Pathlib
 
-Shutil
+- Shutil
 
-Random
+- Random
 
-Pandas
+- Pandas
